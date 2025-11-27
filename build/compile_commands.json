@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4  -std=c++11  -g -std=gnu++11 -o CMakeFiles/prida.dir/main.cpp.o -c \"/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/main.cpp\"",
+  "file": "/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/main.cpp",
+  "output": "CMakeFiles/prida.dir/main.cpp.o"
+}
+]
