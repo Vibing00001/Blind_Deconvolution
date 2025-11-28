@@ -1,0 +1,6 @@
+bimachandra@bimachandra-ROG-Strix-G533QS-G533QS:~/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build$ ./prida ../kitchen.jpg 0.0006 7
+The image is color 
+Working on Scale: 3 with lambda = 0.0006 with pyramid_lambda = 0.002166 and Kernel size 3
+Working on Scale: 2 with lambda = 0.0006 with pyramid_lambda = 0.00114 and Kernel size 5
+Working on Scale: 1 with lambda = 0.0006 with pyramid_lambda = 0.0006 and Kernel size 7
+Operation completed in 588 seconds
