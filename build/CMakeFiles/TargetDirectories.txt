@@ -1,3 +1,3 @@
-/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build/CMakeFiles/prida.dir
-/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build/CMakeFiles/edit_cache.dir
-/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build/CMakeFiles/rebuild_cache.dir
+/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution/build/CMakeFiles/prida.dir
+/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution/build/CMakeFiles/edit_cache.dir
+/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution/build/CMakeFiles/rebuild_cache.dir

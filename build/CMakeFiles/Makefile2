@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution"
+CMAKE_SOURCE_DIR = "/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build"
+CMAKE_BINARY_DIR = "/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution/build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/prida.dir/clean
 CMakeFiles/prida.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prida.dir/build.make CMakeFiles/prida.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prida.dir/build.make CMakeFiles/prida.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build/CMakeFiles" --progress-num=1,2 "Built target prida"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution/build/CMakeFiles" --progress-num=1,2 "Built target prida"
 .PHONY : CMakeFiles/prida.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/prida.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution/build/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/prida.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/bimachandra/Documents/GMU CS/cs499/cs-499-computational-photography/final project/Cpp/Blind_Deconvolution/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/bimachandra/Documents/GMU CS/cs499/cpp_deconvolution/Blind_Deconvolution/build/CMakeFiles" 0
 .PHONY : CMakeFiles/prida.dir/rule
 
 # Convenience name for target.

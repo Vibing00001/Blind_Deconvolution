@@ -1,5 +1,5 @@
 CMakeFiles/prida.dir/main.cpp.o: \
- /home/bimachandra/Documents/GMU\ CS/cs499/cs-499-computational-photography/final\ project/Cpp/Blind_Deconvolution/main.cpp \
+ /home/bimachandra/Documents/GMU\ CS/cs499/cpp_deconvolution/Blind_Deconvolution/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
